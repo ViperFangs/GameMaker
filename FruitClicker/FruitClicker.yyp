@@ -3,6 +3,8 @@
     {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},"order":2,},
     {"id":{"name":"spr_apple","path":"sprites/spr_apple/spr_apple.yy",},"order":0,},
     {"id":{"name":"sfx_explosion","path":"sounds/sfx_explosion/sfx_explosion.yy",},"order":1,},
+    {"id":{"name":"spr_explosion_01","path":"sprites/spr_explosion_01/spr_explosion_01.yy",},"order":7,},
+    {"id":{"name":"obj_explosion_01","path":"objects/obj_explosion_01/obj_explosion_01.yy",},"order":8,},
     {"id":{"name":"sfx_click","path":"sounds/sfx_click/sfx_click.yy",},"order":0,},
     {"id":{"name":"obj_apple","path":"objects/obj_apple/obj_apple.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":5,},

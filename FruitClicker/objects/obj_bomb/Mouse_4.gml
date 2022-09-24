@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+instance_create_layer(self.x, self.y, "Instances", obj_explosion_01)
 var minX = 0 + obj_wall.sprite_width + (self.sprite_width/2)
 var maxX = room_width - obj_wall.sprite_width - (self.sprite_width/2)
 
