@@ -9,5 +9,12 @@ var maxY = room_height - obj_wall.sprite_height - (self.sprite_height/2)
 self.x = irandom_range(minX, maxX)
 self.y = irandom_range(minY, maxY)
 audio_play_sound(sfx_explosion, 9, false)
-score = score - 200 
 
+if (score < 200)
+{
+	score = 0
+}	
+else 
+{
+	score = score - 200
+}
