@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-self.hspeed = irandom_range(-3, 3)
-self.vspeed = irandom_range(-3, 3)
+self.hspeed = irandom_range(-4, -8)
+self.vspeed = irandom_range(-4, -8)
 
 self.image_angle = self.direction
