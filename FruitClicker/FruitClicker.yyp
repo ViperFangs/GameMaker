@@ -1,6 +1,12 @@
 {
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},"order":2,},
+    {"id":{"name":"spr_apple","path":"sprites/spr_apple/spr_apple.yy",},"order":0,},
+    {"id":{"name":"spr_banana","path":"sprites/spr_banana/spr_banana.yy",},"order":1,},
+    {"id":{"name":"spr_strawberry","path":"sprites/spr_strawberry/spr_strawberry.yy",},"order":4,},
+    {"id":{"name":"bg_wood","path":"sprites/bg_wood/bg_wood.yy",},"order":6,},
+    {"id":{"name":"spr_cherry","path":"sprites/spr_cherry/spr_cherry.yy",},"order":3,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
