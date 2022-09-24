@@ -11,7 +11,7 @@
     {"id":{"name":"obj_banana","path":"objects/obj_banana/obj_banana.yy",},"order":1,},
     {"id":{"name":"spr_cherry","path":"sprites/spr_cherry/spr_cherry.yy",},"order":3,},
     {"id":{"name":"obj_cherry","path":"objects/obj_cherry/obj_cherry.yy",},"order":3,},
-    {"id":{"name":"obj_bg","path":"objects/obj_bg/obj_bg.yy",},"order":6,},
+    {"id":{"name":"obj_wood","path":"objects/obj_wood/obj_wood.yy",},"order":6,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":5,},
     {"id":{"name":"obj_strawberry","path":"objects/obj_strawberry/obj_strawberry.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

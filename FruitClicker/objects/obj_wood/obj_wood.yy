@@ -1,6 +1,9 @@
 {
-  "name": "obj_bg",
-  "spriteId": null,
+  "name": "obj_wood",
+  "spriteId": {
+    "name": "bg_wood",
+    "path": "sprites/bg_wood/bg_wood.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
   "solid": false,
